@@ -1,0 +1,16 @@
+  body {
+
+    background: linear-gradient(aquamarine, blue, paleturquoise);
+    color: rgb(215, 248, 25);
+    text-align: center;
+
+  }
+
+  h2 {
+    background-color: rgb(102, 204, 204);
+
+  }
+
+  #imagem_paisagem{
+    width: 30%;
+  }
